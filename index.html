@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lernplattform</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-content">
+      <p class="eyebrow">Digitale Lernplattform</p>
+      <h1>Lernmaterialien nach Fach und Klasse</h1>
+      <p class="subtitle">
+        Wähle zuerst ein Fach, anschließend deine Klasse und dann das passende Thema.
+      </p>
+      <div class="search-row">
+        <input id="searchInput" type="search" placeholder="Thema, Fach oder Klasse suchen …">
+        <button id="resetButton" type="button">Zurücksetzen</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar" aria-label="Filter">
+      <h2>Auswahl</h2>
+      <div id="subjectFilters" class="filter-group"></div>
+      <div id="classFilters" class="filter-group"></div>
+    </aside>
+
+    <section class="content">
+      <div class="content-head">
+        <h2>Materialübersicht</h2>
+        <p id="resultInfo">Materialien werden geladen …</p>
+      </div>
+      <div id="app" class="cards"></div>
+    </section>
+  </main>
+
+  <footer>
+    <a href="impressum.html">Impressum</a>
+    <span>·</span>
+    <a href="datenschutz.html">Datenschutz</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
