@@ -1,0 +1,143 @@
+{
+  "faecher": [
+    {
+      "name": "Mathematik",
+      "klassen": [
+        {
+          "name": "Klasse 5",
+          "themen": [
+            {
+              "titel": "Rauminhalte und Volumen",
+              "beschreibung": "Lernspiel und Übungsmaterial zum Vergleichen von Körpern sowie zum Umrechnen von Volumeneinheiten.",
+              "tags": [
+                "Volumen",
+                "Lernspiel",
+                "Einheiten"
+              ],
+              "links": [
+                {
+                  "typ": "Lernspiel",
+                  "titel": "Körper vergleichen",
+                  "url": "material/mathematik/klasse-5/volumen/lernspiel.html"
+                },
+                {
+                  "typ": "PDF",
+                  "titel": "Arbeitsblatt",
+                  "url": "material/mathematik/klasse-5/volumen/arbeitsblatt-volumen.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Klasse 7",
+          "themen": [
+            {
+              "titel": "Geometrie und Kongruenzsätze",
+              "beschreibung": "Materialbereich zu Winkeln, Dreieckskonstruktionen und Kongruenzsätzen.",
+              "tags": [
+                "Geometrie",
+                "Kongruenz",
+                "Winkel"
+              ],
+              "links": [
+                {
+                  "typ": "Übersicht",
+                  "titel": "Themenstart",
+                  "url": "material/mathematik/klasse-7/geometrie/index.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EF",
+          "themen": [
+            {
+              "titel": "Transformationen von Funktionen",
+              "beschreibung": "Wiederholung und interaktive Übungen zur Vorbereitung auf zentrale Prüfungsformate.",
+              "tags": [
+                "Funktionen",
+                "Transformation",
+                "EF"
+              ],
+              "links": [
+                {
+                  "typ": "Lernpfad",
+                  "titel": "Transformationen",
+                  "url": "material/mathematik/ef/funktionen/transformationen.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Physik",
+      "klassen": [
+        {
+          "name": "Klasse 5",
+          "themen": [
+            {
+              "titel": "Wärme",
+              "beschreibung": "Material zu Flüssigkeitsthermometer, Ausdehnung, Aggregatzuständen und Anomalie des Wassers.",
+              "tags": [
+                "Wärme",
+                "Teilchenmodell"
+              ],
+              "links": [
+                {
+                  "typ": "Übersicht",
+                  "titel": "Wärme",
+                  "url": "material/physik/klasse-5/waerme/index.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Klasse 8",
+          "themen": [
+            {
+              "titel": "Astronomie und Radioteleskop",
+              "beschreibung": "Materialbereich zum Radioteleskop Effelsberg, Schwarzen Löchern und aktueller Forschung.",
+              "tags": [
+                "Astronomie",
+                "Radioteleskop",
+                "Effelsberg"
+              ],
+              "links": [
+                {
+                  "typ": "Lernpfad",
+                  "titel": "Radioteleskop Effelsberg",
+                  "url": "material/physik/klasse-8/astronomie/radioteleskop.html"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q1",
+          "themen": [
+            {
+              "titel": "Photoeffekt",
+              "beschreibung": "Material zur Deutung des Photoeffekts mit dem Photonenmodell.",
+              "tags": [
+                "Quantenphysik",
+                "Photonenmodell"
+              ],
+              "links": [
+                {
+                  "typ": "Übersicht",
+                  "titel": "Photoeffekt",
+                  "url": "material/physik/q1/photoeffekt/index.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
